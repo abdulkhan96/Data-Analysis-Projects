@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project delves into the current state of the data science field through the analysis of a dataset comprising responses from 504 professionals. The dataset provides a detailed view of various industry aspects, such as job roles, salary distributions, programming language preferences, and career challenges. By leveraging this data, we aim to deliver a comprehensive understanding of the data science workforce and industry trends.
-[Navigating Data Science Power BI/Power BI Mini Project_page-0001.jpg](https://github.com/abdulkhan96/Data-Analysis-Projects/blob/5cf21a446cd09cca3199e0b95422ad9d54d90937/Navigating%20Data%20Science%20Power%20BI/Power%20BI%20Mini%20Project_page-0001.jpg)
+![Navigating Data Science Power BI/Power BI Mini Project_page-0001.jpg](https://github.com/abdulkhan96/Data-Analysis-Projects/blob/5cf21a446cd09cca3199e0b95422ad9d54d90937/Navigating%20Data%20Science%20Power%20BI/Power%20BI%20Mini%20Project_page-0001.jpg)
 
 ## Objectives
 
