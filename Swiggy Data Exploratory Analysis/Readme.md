@@ -15,7 +15,7 @@ This project analyzes Swiggy data using **SQL and Power BI** to gain insights in
 - **[Swiggy_Dashboard.pbix](https://github.com/abdulkhan96/Data-Analysis-Projects/blob/7da507ea98b36a66f0658f9c7332f9071b8afefa/Swiggy%20Data%20Exploratory%20Analysis/Swiggy_Dashboard.pbix)** - Power BI file containing interactive visualizations and dashboards.  
 - **[Swiggy_Dashboard.pdf](https://github.com/abdulkhan96/Data-Analysis-Projects/blob/7da507ea98b36a66f0658f9c7332f9071b8afefa/Swiggy%20Data%20Exploratory%20Analysis/Swiggy_Dashboard.pdf)** - Exported PDF version of the dashboard for quick reference.  
 - **[swiggy - swiggy.csv.xlsx](https://github.com/abdulkhan96/Data-Analysis-Projects/blob/ab886ef1f4253ccf88f380313ccf45f7d3123625/Swiggy%20Data%20Exploratory%20Analysis/swiggy%20-%20swiggy.csv.xlsx)** - Processed dataset containing Swiggy order details, restaurant information, and key metrics.   
-- **[GitHub Repository](#)** - Full project repository with all files.  
+- **[GitHub Repository](https://github.com/abdulkhan96/Data-Analysis-Projects/tree/3c649cc9c4e7da2a63b570818961667370970a87/Swiggy%20Data%20Exploratory%20Analysis)** - Full project repository with all files.  
 
 ## 🚀 How to Use  
 - **Open** `Swiggy_Dashboard.pbix` in **Power BI** to explore interactive insights.  
