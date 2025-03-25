@@ -23,4 +23,4 @@ This repository contains multiple **Data Analysis** projects, showcasing skills 
 - **Hiring Process Analytics** → Analyzing recruitment trends and hiring efficiencies.  
 - **Myntra Market Analysis** → Sales and trend analysis in the e-commerce sector. 
 
-📖 **To check for new projects, do check projects on my profile on [Medium](https://medium.com/@abdul.khan96) →** *(Add your Medium link here)*  
+📖 **To check for new projects, do check projects on my profile on [Medium](https://medium.com/@abdul.khan96)**
