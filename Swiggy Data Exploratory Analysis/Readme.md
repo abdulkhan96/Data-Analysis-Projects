@@ -23,7 +23,7 @@ This project analyzes Swiggy data using **SQL and Power BI** to gain insights in
 - **The** `swiggy - swiggy.csv.xlsx` file contains raw and cleaned data for further analysis.  
 
 ## 📖 Read the Full Analysis  
-For a **detailed breakdown and insights**, check out the full project analysis on **[Medium](<Medium_Article_Link_Here>)**.  
+For a **detailed breakdown and insights**, check out the full project analysis on **[Medium](https://medium.com/@abdul.khan96/swiggy-analysis-95afd2223a23)**.  
 
 ## 🛠 Tools Used  
 - **Power BI** 📊 - Visualization and dashboard creation.  
