@@ -15,7 +15,7 @@ This repository contains the SQL queries and related analyses for the COVID-19 A
 
 ## Data Sources
 - **[COVID-19 Deaths Data](https://github.com/abdulkhan96/Data-Analysis-Projects/blob/10af29925a3cc080a34938f02d17aad72a0a3847/Covid%20Data%20Analysis/CovidDeaths.csv)**: Includes columns such as ISO code, location, continent, total deaths, new deaths, etc.
-- **[COVID-19 Vaccinations Data](https://github.com/abdulkhan96/SQL-Based-Data-Visualisation/blob/main/CovidVaccinations.csv)**: Includes columns such as ISO code, location, continent, total vaccinations, new vaccinations, etc.
+- **[COVID-19 Vaccinations Data](https://github.com/abdulkhan96/Data-Analysis-Projects/blob/10af29925a3cc080a34938f02d17aad72a0a3847/Covid%20Data%20Analysis/CovidVaccinations.csv)**: Includes columns such as ISO code, location, continent, total vaccinations, new vaccinations, etc.
 
 ## SQL Queries
 This project includes a collection of SQL queries used for analyzing COVID-19 data, such as:
